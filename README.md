@@ -39,3 +39,6 @@ git branch -M main
 git remote add origin YOUR_GITHUB_REPOSITORY_URL
 git push -u origin main
 ```
+## Jenkins CI Test
+
+This project is automatically built using Jenkins CI.
